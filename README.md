@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrsP3lt
+- 👋 Hi, I’m Emile Sean
 - 👀 I’m an Indipendent Security researcher
 - 🌱 I’m currently working with blockchain technologies.
 - 💞️ I’m looking to collaborate on blockchain
