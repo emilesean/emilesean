@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me -
    - 📫 [Telegram](https://t.me/emilesean)
-   - 📫 [Twitter](https://twitter.com/MrsP3lt)
+   - 📫 [Twitter](https://twitter.com/emilesean_es)
    - 📫 [Discord](https://discord.com/users/1227487752535408710)
 
 <!---
