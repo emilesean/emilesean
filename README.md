@@ -1,14 +1,25 @@
-- 👋 Hi, I’m Emile Sean
-- 👀 I’m an Indipendent Security researcher
-- 🌱 I’m currently working with blockchain technologies.
-- 💞️ I’m looking to collaborate on blockchain
-- 📫 How to reach me -
-   - 📫 [Telegram](https://t.me/emilesean)
-   - 📫 [Twitter](https://twitter.com/emilesean_es)
-   - 📫 [Discord](https://discord.com/users/1227487752535408710)
+# Hi there, I'm Emile Sean 👋
 
-<!---
-emilesean/emilesean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🔍 Professional Bug Bounty Hunter
+- ⛓️ Blockchain Technology Enthusiast
+- 💻 Currently focused on blockchain security and development
+- 🌐 Exploring web3 innovations and decentralized applications
 
+## Looking To Collaborate On
+- 🔐 Blockchain security projects
+- 🧪 Smart contract auditing
+- 🛠️ DeFi protocol development
+- 🔄 Cross-chain solutions
+
+## Connect With Me
+- 📱 [Telegram](https://t.me/emilesean)
+- 🐦 [Twitter/X](https://x.com/emilesean_es)
+- 🎮 [Discord](https://discord.com/users/1227487752535408710)
+- 📅 [Schedule a Meeting](https://calendar.app.google/vmLduCix6fM4eg66A)
+
+## Skills
+- 🔍 Penetration Testing
+- 🔐 Smart Contract Auditing
+- 🧠 Solidity Development
+- 🕸️ Web3 Technologies
